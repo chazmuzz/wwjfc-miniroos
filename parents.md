@@ -38,6 +38,8 @@ This page pulls together the most practical information for families involved in
 ## Weekly pattern
 
 - Training currently runs on Wednesdays from `4:30pm` to `5:30pm`.
+- Training starts on Wednesday `25 March`.
+- There will be a break from training during the winter school holidays.
 - Saturday games are an important part of the programme.
 - Additional sessions can be added later if the programme needs them.
 

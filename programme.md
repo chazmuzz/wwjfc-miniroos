@@ -44,6 +44,8 @@ The programme is designed as a shared framework across both age groups. Coaches 
 ## Weekly schedule and location
 
 - Training session: Wednesday, `4:30pm` to `5:30pm`.
+- Training starts on Wednesday `25 March`.
+- There will be a break from training during the winter school holidays.
 - Additional sessions can be added later if needed.
 - Players are encouraged to attend the weekly training session where possible.
 - Saturday game attendance, approximately `8:00am` to `10:00am`, is a firmer expectation.

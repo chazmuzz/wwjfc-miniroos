@@ -25,6 +25,7 @@ The programme is designed as a shared framework across both age groups. Coaches 
 - [Player development philosophy](#player-development-philosophy)
 - [Session environment](#session-environment)
 - [Session structure](#session-structure)
+- [Typical training flow](#typical-training-flow)
 - [Coaching and delivery](#coaching-and-delivery)
 - [Equipment and safety](#equipment-and-safety)
 - [Parent support](#parent-support)
@@ -113,6 +114,30 @@ Because the cohort includes both `U6` and `U7` players, activities should have s
 - Small-sided games such as `1v1`, `2v2` and `3v3` should be used regularly to build decision-making and confidence.
 - Sessions can finish with game-like activity or mini matches, followed by a brief cool-down and positive reflection.
 - The exact mix can change week to week, but the rhythm should stay familiar enough that players know what to expect.
+
+## Typical training flow
+
+Training is intended to follow a simple, repeatable rhythm that is easy for players, coaches and families to understand.
+
+Sessions will usually begin with arrival play. This should be active, football-based play that children can join as they arrive, rather than standing and waiting. Examples may include free dribbling, gates, traffic lights, sharks and minnows, or other simple ball-based games.
+
+After arrival play, the session will usually move through two activity blocks before finishing with game play. Each part of the session will typically run for around `15` minutes, with short drink breaks and resets between blocks where needed.
+
+A typical session flow is:
+
+- Arrival play
+- Block `1`
+- Block `2`
+- Game
+
+The content of each block may change from week to week, but the overall rhythm should remain familiar. In general:
+
+- arrival play should feel like football play
+- block `1` should introduce or reinforce the main theme of the session
+- block `2` should build on that theme with a little more challenge, pressure or decision-making
+- the session should finish with realistic small-sided games wherever possible
+
+This structure is intended to keep sessions simple, active and enjoyable while still supporting skill development. It also aligns with a play-practice-play approach by starting with football, developing a theme through guided activity, and finishing with game play.
 
 ## Coaching and delivery
 

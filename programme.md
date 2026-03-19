@@ -9,7 +9,7 @@ This page is the main reference for how the Warilla Wanderers Junior Football Cl
 
 At WWJFC, MiniRoos currently covers `U6` and `U7`.
 
-- Players born in `2020` are in `U6`.
+- Players born in `2021` or `2020` are in `U6`.
 - Players born in `2019` are in `U7`.
 
 The programme is designed as a shared framework across both age groups. Coaches work together, sessions are planned with flexibility, and the focus stays on giving children a strong early football experience.

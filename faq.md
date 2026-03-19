@@ -12,7 +12,7 @@ permalink: /faq/
 
 ## Is this programme only about fun?
 
-No. Fun is essential, but the programme also aims to build football ability, confidence and habits that help players improve over time. At these ages, development works best when children enjoy what they are doing and want to return each week.
+No. Fun is essential, but the programme also aims to build football ability, confidence and good habits. At these ages, development works best when children enjoy what they are doing and want to return each week.
 
 ## Do players need to attend every training session?
 
@@ -20,11 +20,11 @@ Players are encouraged to attend the weekly Wednesday session where possible. Sa
 
 ## Do we need parent help?
 
-Often, yes. Parent and volunteer support can help with setup, drill flow, transitions and encouraging children who need extra assistance.
+Often, yes. Parent and volunteer support can help with setup, transitions and encouraging children who need extra assistance.
 
 ## Is the club replacing individual parent responsibility?
 
-No. The programme provides structure, guidance and a positive football environment, but it does not replace what happens at home. Parent encouragement, routines, transport, nutrition decisions and day-to-day support still matter.
+No. The programme provides structure and a positive football environment, but it does not replace what happens at home. Parent encouragement, routines, transport and day-to-day support still matter.
 
 ## What should players bring?
 

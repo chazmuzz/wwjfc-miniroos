@@ -16,7 +16,7 @@ This page pulls together the most practical information for families involved in
 
 - A fun, welcoming and development-focused football environment.
 - One shared MiniRoos framework across `U6` and `U7`.
-- Sessions built around repetition, games and lots of ball touches.
+- Sessions built around simple games, repetition and lots of touches on the ball.
 - A stronger emphasis on enjoyment, confidence and good habits than on results.
 
 ## What players need each week
@@ -34,6 +34,7 @@ This page pulls together the most practical information for families involved in
 - Keep expectations realistic, especially for children new to organised football.
 - Praise effort, bravery, teamwork, listening and sportsmanship.
 - Support simple football practice at home when possible.
+- Avoid sideline coaching and let children learn through the game.
 
 ## Weekly pattern
 
@@ -41,7 +42,6 @@ This page pulls together the most practical information for families involved in
 - Training starts on Wednesday `25 March`.
 - There will be a break from training during the winter school holidays.
 - Saturday games are an important part of the programme.
-- Additional sessions can be added later if the programme needs them.
 
 ## Parent volunteers
 

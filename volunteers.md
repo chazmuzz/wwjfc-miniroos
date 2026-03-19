@@ -5,7 +5,7 @@ permalink: /volunteers/
 
 # Volunteer Information
 
-Volunteers help the MiniRoos programme feel organised, welcoming and manageable on busy days. Support does not need to be formal coaching to be useful.
+Volunteers help the MiniRoos programme feel organised, welcoming and manageable. Support does not need to be formal coaching to be useful.
 
 ## Where volunteers can help
 
@@ -33,6 +33,6 @@ Volunteers help the MiniRoos programme feel organised, welcoming and manageable 
 
 ## Why volunteer help matters
 
-MiniRoos sessions and game days rely on volunteer support. Extra adult help keeps football activities flowing, makes field setup and pack-down manageable, and helps the wider club operate essentials like the canteen and BBQ. The whole club runs on volunteers, so these roles are central to making each weekend work.
+MiniRoos sessions and game days rely on volunteer support. Extra adult help keeps football activities flowing, makes field setup and pack-down manageable, and helps the wider club operate essentials like the canteen and BBQ.
 
 For the broader context, read the [MiniRoos programme]({{ "/programme/" | relative_url }}).

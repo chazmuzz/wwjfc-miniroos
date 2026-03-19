@@ -12,6 +12,7 @@ Warilla Wanderers Junior Football Club MiniRoos covers our `U6` and `U7` teams. 
 ## Start here
 
 - [Read the full MiniRoos programme]({{ "/programme/" | relative_url }})
+- [Schedule]({{ "/schedule/" | relative_url }})
 - [Parent information]({{ "/parents/" | relative_url }})
 - [Coach information]({{ "/coaches/" | relative_url }})
 - [Volunteer information]({{ "/volunteers/" | relative_url }})
@@ -30,7 +31,6 @@ Warilla Wanderers Junior Football Club MiniRoos covers our `U6` and `U7` teams. 
 - Training starts on Wednesday `25 March`.
 - There will be a break from training during the winter school holidays.
 - Saturday game attendance is an important part of the programme.
-- Coaches work together across the cohort rather than operating in isolation.
 - Parent and volunteer support helps sessions run smoothly.
 
 For full details, use the programme page as the main source of truth.

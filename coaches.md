@@ -19,8 +19,16 @@ MiniRoos at WWJFC is intended to run as a shared programme across `U6` and `U7`,
 
 - Coaches work together and share responsibility across the cohort.
 - Sessions should be flexible enough to handle variable attendance.
-- Station-based formats are preferred where they reduce bottlenecks.
 - Activities should be easy to scale up or down for `U6` and `U7`.
+
+## Typical session flow
+
+- Arrival play
+- Block `1`
+- Block `2`
+- Game
+
+Each block will usually run for around `15` minutes, with short drink breaks and resets where needed.
 
 ## Session design principles
 
@@ -30,16 +38,14 @@ MiniRoos at WWJFC is intended to run as a shared programme across `U6` and `U7`,
 - Include simpler and harder variations for most drills.
 - Keep the environment positive and well organised.
 
-## Useful activity types
+## Typical activity types
 
 - Free dribbling and ball familiarisation
 - Red light, green light
 - Gates dribbling
 - Sharks and minnows
-- Simple `1v1` battles
-- Turning races
-- Passing through gates
-- Shooting on small goals
+- Simple `1v1` and `2v1` games
+- Passing or finishing activities with movement
 - Numbers or reaction games
 - Small-sided games
 

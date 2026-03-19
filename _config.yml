@@ -11,7 +11,6 @@ header_pages:
   - parents.md
   - coaches.md
   - volunteers.md
-  - faq.md
 defaults:
   - scope:
       path: ""

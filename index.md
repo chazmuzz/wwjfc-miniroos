@@ -7,13 +7,7 @@ permalink: /
 
 # WWJFC MiniRoos
 
-Warilla Wanderers Junior Football Club MiniRoos covers our `U6` and `U7` teams. This site is a practical reference point for coaches, parents, volunteers, and anyone supporting the programme.
-
-## Age groups
-
-- Players born in `2021` or `2020` are in `U6`.
-- Players born in `2019` are in `U7`.
-- The programme is delivered as a shared MiniRoos framework across both age groups.
+Warilla Wanderers Junior Football Club MiniRoos covers our `U6` and `U7` teams. This site is a practical reference point for coaches, parents, volunteers, and anyone supporting the programme. The programme is delivered as a shared MiniRoos framework across both age groups.
 
 ## Start here
 

@@ -47,4 +47,4 @@ This page pulls together the most practical information for families involved in
 
 Parent help can make a real difference. Volunteers may assist with setup, activity flow, or helping children stay engaged during training.
 
-For the full framework behind the programme, read the [MiniRoos programme]({{ "/programme/" | relative_url }}).
+For the full framework behind the programme, read the [MiniRoos guide]({{ "/programme/" | relative_url }}).

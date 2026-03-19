@@ -1,11 +1,11 @@
 ---
-title: Programme
+title: MiniRoos Guide
 permalink: /programme/
 ---
 
-# WWJFC MiniRoos Programme
+# WWJFC MiniRoos Guide
 
-This page is the main reference for how the Warilla Wanderers Junior Football Club MiniRoos programme is intended to run. It sets out the purpose of the programme, how sessions should feel, and what expectations should be clear for players, parents, coaches and volunteers.
+This page is the main reference for how the Warilla Wanderers Junior Football Club MiniRoos setup is intended to run. It sets out the purpose of the programme, how sessions should feel, and what expectations should be clear for players, parents, coaches and volunteers.
 
 At WWJFC, MiniRoos currently covers `U6` and `U7`.
 
@@ -13,23 +13,6 @@ At WWJFC, MiniRoos currently covers `U6` and `U7`.
 - Players born in `2019` are in `U7`.
 
 The programme is designed as a shared framework across both age groups. Coaches work together, sessions are planned with flexibility, and the focus stays on giving children a strong early football experience.
-
-## Contents
-
-- [Core objectives](#core-objectives)
-- [Programme model](#programme-model)
-- [Weekly schedule and location](#weekly-schedule-and-location)
-- [Match day approach](#match-day-approach)
-- [Player development philosophy](#player-development-philosophy)
-- [Session environment](#session-environment)
-- [Typical training flow](#typical-training-flow)
-- [Coaching and delivery](#coaching-and-delivery)
-- [Equipment and safety](#equipment-and-safety)
-- [Parent support](#parent-support)
-- [Recognition and rewards](#recognition-and-rewards)
-- [Training activity ideas](#training-activity-ideas)
-- [Practical delivery notes](#practical-delivery-notes)
-- [Guiding principle](#guiding-principle)
 
 ## Core objectives
 
@@ -51,6 +34,12 @@ The programme is designed as a shared framework across both age groups. Coaches 
 - Coaches are encouraged to be football-minded and to progress toward the Foundation of Football course.
 - Training takes place during school term only.
 - Official competitions may not begin until around Easter, but the programme can begin earlier and build week by week.
+
+We are doing it this way for a few simple reasons:
+
+- so there is usually a healthy number of players available for both training and games
+- so children get to know each other across the group before moving into older age groups where larger squads matter more
+- so coaches can collaborate across the cohort, giving the club more flexibility if someone is unavailable on a given week
 
 ## Weekly schedule and location
 
@@ -160,13 +149,6 @@ The programme should avoid traditional player-of-the-game awards if they become 
 8. Shooting on small goals
 9. Numbers game or reaction game
 10. Small-sided match play
-
-## Practical delivery notes
-
-- Plan every session so it can be adjusted quickly for roughly `20` to `30` attendees.
-- Use station-based formats where possible to reduce bottlenecks.
-- Have a simpler variation and a harder variation for most activities so `U6` and `U7` players can both be engaged.
-- Keep transitions short and the ball-per-player ratio as high as possible.
 
 ## Guiding principle
 

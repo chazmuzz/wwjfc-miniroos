@@ -53,4 +53,4 @@ Each block will usually run for around `15` minutes, with short drink breaks and
 
 Coaches are encouraged to keep building capability over time, including moving toward the Foundation of Football course where appropriate.
 
-The [MiniRoos programme]({{ "/programme/" | relative_url }}) remains the main reference for the full framework.
+The [MiniRoos guide]({{ "/programme/" | relative_url }}) remains the main reference for the full framework.

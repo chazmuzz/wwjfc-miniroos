@@ -78,6 +78,74 @@ code {
   border-top: 1px solid var(--wwjfc-border);
 }
 
+.schedule-legend {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem 1rem;
+  margin: 1rem 0 1.5rem;
+}
+
+.schedule-legend-item {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  color: var(--wwjfc-ink);
+  font-size: 0.95rem;
+}
+
+.schedule-chip {
+  display: inline-block;
+  padding: 0.2rem 0.55rem;
+  border-radius: 999px;
+  border: 1px solid transparent;
+  font-size: 0.8rem;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+}
+
+.schedule-chip-training,
+.schedule-calendar td.schedule-training {
+  background: #e8f3ff;
+  border-color: #7fb1e3;
+  color: #0b4f7a;
+}
+
+.schedule-chip-game,
+.schedule-calendar td.schedule-game {
+  background: #fff2d8;
+  border-color: #d7a12a;
+  color: #7a4a00;
+}
+
+.schedule-chip-holiday,
+.schedule-calendar td.schedule-holiday {
+  background: #ece8ff;
+  border-color: #9a8fd6;
+  color: #4b3f85;
+}
+
+.schedule-calendar {
+  width: 100%;
+  margin-bottom: 1.5rem;
+  border-collapse: collapse;
+  table-layout: fixed;
+}
+
+.schedule-calendar th,
+.schedule-calendar td {
+  width: 14.285%;
+  min-width: 2.5rem;
+  padding: 0.7rem 0.4rem;
+  border: 1px solid var(--wwjfc-border);
+  text-align: center;
+  vertical-align: middle;
+}
+
+.schedule-calendar th {
+  background: var(--wwjfc-surface);
+}
+
 @media screen and (max-width: 600px) {
   .page-content {
     padding-top: 1.5rem;
@@ -85,5 +153,11 @@ code {
 
   .site-logo {
     width: min(150px, 52vw);
+  }
+
+  .schedule-calendar th,
+  .schedule-calendar td {
+    padding: 0.55rem 0.2rem;
+    font-size: 0.9rem;
   }
 }

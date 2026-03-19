@@ -7,6 +7,7 @@ markdown: kramdown
 permalink: pretty
 header_pages:
   - programme.md
+  - schedule.md
   - parents.md
   - coaches.md
   - volunteers.md

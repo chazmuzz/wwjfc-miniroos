@@ -10,7 +10,7 @@
 
 ## Current age-group wording
 
-- Players born in `2020` are `U6`.
+- Players born in `2021` or `2020` are `U6`.
 - Players born in `2019` are `U7`.
 - Do not refer to `U5` as a separate WWJFC MiniRoos team unless the club structure changes.
 

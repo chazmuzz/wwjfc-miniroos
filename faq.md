@@ -7,7 +7,7 @@ permalink: /faq/
 
 ## Which age group is my child in?
 
-- Players born in `2020` are in `U6`.
+- Players born in `2021` or `2020` are in `U6`.
 - Players born in `2019` are in `U7`.
 
 ## Is this programme only about fun?

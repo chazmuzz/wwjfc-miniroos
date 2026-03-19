@@ -9,11 +9,13 @@ Volunteers help the MiniRoos programme feel organised, welcoming and manageable 
 
 ## Where volunteers can help
 
-- Setting up cones, goals and activity areas.
+- Setting up cones, goals, fields and activity areas before training or games.
 - Helping players move between stations.
 - Encouraging children who need extra support or reassurance.
 - Assisting coaches with simple drill flow.
-- Helping pack down at the end of training.
+- Helping run the canteen on game days or club events.
+- Helping run the BBQ on game days or club events.
+- Helping pack down fields, equipment and activity areas at the end of training or games.
 
 ## What good support looks like
 
@@ -31,6 +33,6 @@ Volunteers help the MiniRoos programme feel organised, welcoming and manageable 
 
 ## Why volunteer help matters
 
-MiniRoos sessions can be busy, especially when attendance is high. Extra adult support helps keep flow, reduce delays and maintain a positive environment for all players.
+MiniRoos sessions and game days rely on volunteer support. Extra adult help keeps football activities flowing, makes field setup and pack-down manageable, and helps the wider club operate essentials like the canteen and BBQ. The whole club runs on volunteers, so these roles are central to making each weekend work.
 
 For the broader context, read the [MiniRoos programme]({{ "/programme/" | relative_url }}).

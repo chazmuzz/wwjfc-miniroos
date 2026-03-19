@@ -1,0 +1,29 @@
+title: WWJFC MiniRoos
+description: Information for coaches, parents, volunteers, and supporters involved in the Warilla Wanderers Junior Football Club MiniRoos programme.
+theme: minima
+url: "https://chazmuzz.github.io"
+baseurl: "/wwjfc-miniroos"
+markdown: kramdown
+permalink: pretty
+header_pages:
+  - programme.md
+  - parents.md
+  - coaches.md
+  - volunteers.md
+  - faq.md
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: page
+exclude:
+  - .gitignore
+  - CONTRIBUTING.md
+  - Gemfile
+  - miniroos-programme.md
+  - README.md
+  - u6-programme.md
+  - vendor/
+  - .bundle/
+  - .jekyll-cache/
+  - Gemfile.lock

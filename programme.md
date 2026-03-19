@@ -44,7 +44,7 @@ The programme is designed as a shared framework across both age groups. Coaches 
 - Develop basic football skills through repetition, games and lots of touches on the ball.
 - Establish good habits around participation, equipment, listening and sportsmanship.
 - Create a clear development pathway that can support future age groups.
-- Target around 50 players across the total cohort.
+- Target around 30 players across the total cohort.
 - Target 50% female participation across players, coaches and volunteers.
 
 ## Programme model
@@ -60,8 +60,8 @@ The programme is designed as a shared framework across both age groups. Coaches 
 
 ## Capacity and structure
 
-- Total registered numbers are expected to be around `50` players across `U6` and `U7`.
-- A practical working model is around `10` squads of `5` players on Saturdays, adjusted as needed for attendance.
+- Total registered numbers are expected to be around `30` players across `U6` and `U7`.
+- A practical working model is around `6` squads of `5` players on Saturdays, adjusted as needed for attendance.
 - This scale supports energetic sessions, multiple small-sided games, social connection across the cohort, and flexibility when families are absent.
 - The aim is to run the age groups as a programme rather than a collection of isolated teams.
 
@@ -194,7 +194,7 @@ The programme should avoid traditional player-of-the-game awards if they are hea
 
 ## Practical delivery notes
 
-- Plan every session so it can be adjusted quickly for roughly `30` to `45` attendees.
+- Plan every session so it can be adjusted quickly for roughly `20` to `30` attendees.
 - Use station-based formats where possible to reduce bottlenecks.
 - Have a simpler variation and a harder variation for most activities so `U6` and `U7` players can both be engaged.
 - Keep transitions short and the ball-per-player ratio as high as possible.

@@ -5,9 +5,7 @@ permalink: /schedule/
 
 # Schedule
 
-This page provides a simple calendar view from **March 2026** to **September 2026** for WWJFC MiniRoos planning.
-
-> This is a planning view and can be updated as training, game, gala day, school holiday, and club event dates are confirmed.
+All training and games take place at Morley Park, Warilla.
 
 <div class="schedule-legend">
   <span class="schedule-legend-item"><span class="schedule-chip schedule-chip-training">Training</span> Wednesday sessions from 25 Mar to 19 Aug</span>

@@ -2,6 +2,8 @@
 
 This repository hosts the GitHub Pages website for Warilla Wanderers Junior Football Club MiniRoos information and documentation.
 
+Live website: `https://chazmuzz.github.io/wwjfc-miniroos/`
+
 ## Site approach
 
 - Jekyll site built for GitHub Pages.

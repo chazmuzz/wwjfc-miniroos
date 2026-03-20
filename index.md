@@ -29,3 +29,21 @@ Warilla Wanderers Junior Football Club MiniRoos covers our `U6` and `U7` teams. 
 - There will be a break from training during the winter school holidays.
 - Saturday game attendance is an important part of the programme.
 - Parent and volunteer support helps sessions run smoothly.
+
+## First session: Wednesday 25 March
+
+For the first session, we will have `3` fields set up and ready to go.
+
+Families are encouraged to arrive from `4:20pm`. Players can grab a ball and settle in through simple arrival play, passing with friends or family members while everyone gathers. We may also use a simple gates game, where players see how many times they can pass or dribble the ball through a gate.
+
+At `4:40pm`, a coach will blow the whistle and everyone will gather in the centre of the middle field. Players will then be divided into small groups and move to different areas.
+
+The session will then run roughly as follows:
+
+- arrival play from `4:20pm`
+- block `1` from `4:45pm`: Red Light, Green Light, progressing into Sharks and Minnows
+- block `2` from `5:00pm`: a race game where two players each have a ball and race to score
+- quick drink break from around `5:12pm`
+- small-sided games from around `5:15pm` to `5:30pm`, likely `3v3` or `4v4` depending on numbers
+
+The main goal of the first session is to help players feel welcome, active and excited to come back the following week.

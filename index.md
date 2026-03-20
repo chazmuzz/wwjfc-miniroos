@@ -12,7 +12,7 @@ Warilla Wanderers Junior Football Club MiniRoos covers our `U6` and `U7` teams. 
 ## Start here
 
 - [Schedule]({{ "/schedule/" | relative_url }})
-- [Parent information]({{ "/parents/" | relative_url }})
+- [Family Info]({{ "/parents/" | relative_url }})
 - [Volunteer information]({{ "/volunteers/" | relative_url }})
 
 ## What MiniRoos is about

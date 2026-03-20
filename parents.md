@@ -1,9 +1,9 @@
 ---
-title: Parents
+title: Family Info
 permalink: /parents/
 ---
 
-# Parent Information
+# Family Info
 
 This page pulls together the main practical information for families involved in WWJFC MiniRoos.
 

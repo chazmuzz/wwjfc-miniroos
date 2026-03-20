@@ -9,13 +9,13 @@ This page pulls together the main practical information for families involved in
 
 ## Age group guide
 
-- Players born in `2021` or `2020` are in `U6`.
-- Players born in `2019` are in `U7`.
+- Players born in 2021 or 2020 are in U6.
+- Players born in 2019 are in U7.
 
 ## What parents can expect
 
 - A fun, welcoming and development-focused football environment.
-- One shared MiniRoos framework across `U6` and `U7`.
+- One shared MiniRoos framework across U6 and U7.
 - Sessions built around simple games, repetition and lots of touches on the ball.
 - A stronger emphasis on enjoyment, confidence and good habits than on results.
 
@@ -24,11 +24,11 @@ We run MiniRoos as a shared group so there is usually a healthy number of player
 ## Typical training flow
 
 - Arrival play
-- Block `1`
-- Block `2`
+- Block 1
+- Block 2
 - Game
 
-This usually runs in a simple rhythm, with each part taking roughly `15` minutes and short drink breaks or resets in between.
+This usually runs in a simple rhythm, with each part taking roughly 15 minutes and short drink breaks or resets in between.
 
 ## What players need each week
 
@@ -36,7 +36,7 @@ This usually runs in a simple rhythm, with each part taking roughly `15` minutes
 - Boots
 - Long socks
 - Water bottle
-- A correctly sized football for practice at home, ideally size `2` or `3`
+- A correctly sized football for practice at home, ideally size 2 or 3
 
 ## Helpful parent support
 
@@ -49,8 +49,8 @@ This usually runs in a simple rhythm, with each part taking roughly `15` minutes
 
 ## Weekly pattern
 
-- Training currently runs on Wednesdays from `4:30pm` to `5:30pm`.
-- Training starts on Wednesday `25 March`.
+- Training currently runs on Wednesdays from 4:30pm to 5:30pm.
+- Training starts on Wednesday 25 March.
 - There will be a break from training during the winter school holidays.
 - Saturday games are an important part of the programme.
 

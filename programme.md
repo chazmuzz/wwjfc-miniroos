@@ -8,10 +8,10 @@ sitemap: false
 
 This page is the main reference for how the Warilla Wanderers Junior Football Club MiniRoos setup is intended to run. It sets out the purpose of the programme, how sessions should feel, and what expectations should be clear for players, parents, coaches and volunteers.
 
-At WWJFC, MiniRoos currently covers `U6` and `U7`.
+At WWJFC, MiniRoos currently covers U6 and U7.
 
-- Players born in `2021` or `2020` are in `U6`.
-- Players born in `2019` are in `U7`.
+- Players born in 2021 or 2020 are in U6.
+- Players born in 2019 are in U7.
 
 The programme is designed as a shared framework across both age groups. Coaches work together, sessions are planned with flexibility, and the focus stays on giving children a strong early football experience.
 
@@ -27,7 +27,7 @@ The programme is designed as a shared framework across both age groups. Coaches 
 
 ## Programme model
 
-- One MiniRoos framework across `U6` and `U7` rather than isolated teams working separately.
+- One MiniRoos framework across U6 and U7 rather than isolated teams working separately.
 - Shared programme led collaboratively by coaches.
 - Players are part of one overall cohort, with Saturday squads used for organisation rather than as fixed-status teams.
 - Squads can change over time to support social mixing, flexibility and equal belonging across the programme.
@@ -44,8 +44,8 @@ We are doing it this way for a few simple reasons:
 
 ## Weekly schedule and location
 
-- Training session: Wednesday, `4:30pm` to `5:30pm`.
-- Training starts on Wednesday `25 March`.
+- Training session: Wednesday, 4:30pm to 5:30pm.
+- Training starts on Wednesday 25 March.
 - There will be a break from training during the winter school holidays.
 - Additional sessions can be added later if needed.
 - Players are encouraged to attend the weekly training session where possible.
@@ -67,7 +67,7 @@ Player skill development sits at the centre of the MiniRoos programme. At this a
 
 Sessions should maximise touches, encourage creativity, and build simple physical literacy such as balance, coordination, running, stopping, turning and reacting.
 
-Because the cohort includes both `U6` and `U7` players, activities should have simple scaling options so the same session structure can work for children at slightly different stages of development.
+Because the cohort includes both U6 and U7 players, activities should have simple scaling options so the same session structure can work for children at slightly different stages of development.
 
 ## Session environment
 
@@ -83,20 +83,20 @@ Training is intended to follow a simple, repeatable rhythm that is easy for play
 
 Sessions will usually begin with arrival play. This should be active, football-based play that children can join as they arrive, rather than standing and waiting. Examples may include free dribbling, gates, traffic lights, sharks and minnows, or other simple ball-based games.
 
-After arrival play, the session will usually move through two activity blocks before finishing with game play. Each part of the session will typically run for around `15` minutes, with short drink breaks and resets between blocks where needed.
+After arrival play, the session will usually move through two activity blocks before finishing with game play. Each part of the session will typically run for around 15 minutes, with short drink breaks and resets between blocks where needed.
 
 A typical session flow is:
 
 - Arrival play
-- Block `1`
-- Block `2`
+- Block 1
+- Block 2
 - Game
 
 The content of each block may change from week to week, but the overall rhythm should remain familiar. In general:
 
 - arrival play should feel like football play
-- block `1` should introduce or reinforce the main theme of the session
-- block `2` should build on that theme with a little more challenge, pressure or decision-making
+- block 1 should introduce or reinforce the main theme of the session
+- block 2 should build on that theme with a little more challenge, pressure or decision-making
 - the session should finish with realistic small-sided games wherever possible
 
 This structure is intended to keep sessions simple, active and enjoyable while still supporting skill development. It also aligns with a play-practice-play approach by starting with football, developing a theme through guided activity, and finishing with game play.
@@ -105,7 +105,7 @@ This structure is intended to keep sessions simple, active and enjoyable while s
 
 - Coaches should work as one coaching group rather than as isolated team coaches.
 - Session ideas and responsibilities should be shared so delivery stays consistent across the programme.
-- A practical target is roughly `1` coach for every `8` to `10` players.
+- A practical target is roughly 1 coach for every 8 to 10 players.
 - Parent volunteers can support stations, transitions and player engagement under the direction of coaches.
 
 ## Equipment and safety
@@ -113,7 +113,7 @@ This structure is intended to keep sessions simple, active and enjoyable while s
 - Shin pads must be worn for every session.
 - Boots must be worn for every session.
 - Long socks must be worn for every session.
-- Players should bring a correctly sized football for home practice, ideally size `2` or size `3`, and not bigger.
+- Players should bring a correctly sized football for home practice, ideally size 2 or size 3, and not bigger.
 - Piercings should be removed where possible. If they cannot be removed, they should be taped safely.
 
 ## Parent support
@@ -144,7 +144,7 @@ The programme should avoid traditional player-of-the-game awards if they become 
 2. Red light, green light with the ball
 3. Gates dribbling
 4. Sharks and minnows
-5. Simple `1v1` battles
+5. Simple 1v1 battles
 6. Cone turning races
 7. Passing through gates
 8. Shooting on small goals

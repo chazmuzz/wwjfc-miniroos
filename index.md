@@ -48,6 +48,10 @@ The session will then run roughly as follows:
 
 Players should bring soccer boots or joggers, long socks, shin pads, a drink bottle, and comfortable sporty clothing that does not restrict movement.
 
-Volunteers can help by returning stray balls back into the training area so the activities keep flowing.
+Families are encouraged to bring their own size 3 ball along if they have one, and to write their name on it with a Sharpie. The club does have footballs available, but there may not be enough to go around for every child. Please avoid size 4 or 5 balls.
+
+Family members can help by returning stray balls back into the training area so the activities keep flowing.
+
+At the end of the first session, club shorts and socks will be available for purchase from the canteen.
 
 The main goal of the first session is to help players feel welcome, active and excited to come back the following week.

@@ -7,18 +7,15 @@ permalink: /
 
 # WWJFC MiniRoos
 
-Warilla Wanderers Junior Football Club MiniRoos covers our `U6` and `U7` teams. This site is a practical reference point for coaches, parents, volunteers, and anyone supporting the programme. The programme is delivered as a shared MiniRoos framework across both age groups.
+Warilla Wanderers Junior Football Club MiniRoos covers our `U6` and `U7` teams. This site keeps the key information simple and practical for families and volunteers.
 
 ## Start here
 
-- [Read the MiniRoos guide]({{ "/programme/" | relative_url }})
 - [Schedule]({{ "/schedule/" | relative_url }})
 - [Parent information]({{ "/parents/" | relative_url }})
-- [Coach information]({{ "/coaches/" | relative_url }})
 - [Volunteer information]({{ "/volunteers/" | relative_url }})
-- [Frequently asked questions]({{ "/faq/" | relative_url }})
 
-## What the programme aims to do
+## What MiniRoos is about
 
 - Create a fun, safe and welcoming first football experience.
 - Build confidence, enjoyment and regular participation.
@@ -32,5 +29,3 @@ Warilla Wanderers Junior Football Club MiniRoos covers our `U6` and `U7` teams. 
 - There will be a break from training during the winter school holidays.
 - Saturday game attendance is an important part of the programme.
 - Parent and volunteer support helps sessions run smoothly.
-
-For full details, use the MiniRoos guide as the main source of truth.

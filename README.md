@@ -16,9 +16,7 @@ Live website: `https://chazmuzz.github.io/wwjfc-miniroos/`
 - `index.md` - site landing page
 - `programme.md` - main MiniRoos programme reference
 - `parents.md` - parent-focused guidance
-- `coaches.md` - coach-focused guidance
 - `volunteers.md` - volunteer guidance
-- `faq.md` - common questions
 
 ## Local preview
 

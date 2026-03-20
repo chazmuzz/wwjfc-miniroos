@@ -34,5 +34,3 @@ Volunteers help the MiniRoos programme feel organised, welcoming and manageable.
 ## Why volunteer help matters
 
 MiniRoos sessions and game days rely on volunteer support. Extra adult help keeps football activities flowing, makes field setup and pack-down manageable, and helps the wider club operate essentials like the canteen and BBQ.
-
-For the broader context, read the [MiniRoos guide]({{ "/programme/" | relative_url }}).

@@ -1,6 +1,7 @@
 ---
 title: MiniRoos Guide
-permalink: /programme/
+permalink: /7c1d9f42-8e31-4d6f-b2c7-5f9130a4e6bd/
+sitemap: false
 ---
 
 # WWJFC MiniRoos Guide

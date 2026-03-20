@@ -23,7 +23,8 @@ Volunteers help the MiniRoos programme feel organised, welcoming and manageable.
 - Help children stay active rather than standing around.
 - Reinforce listening, effort and sportsmanship.
 - Flag safety issues to a coach straight away.
-- Follow the lead coach's session plan.
+- Follow the session plan.
+- Training ideas are welcome, but please discuss them away from the session rather than during activities, so the flow of training is not disrupted.
 
 ## Safety reminders
 

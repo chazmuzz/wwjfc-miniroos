@@ -46,4 +46,8 @@ The session will then run roughly as follows:
 - quick drink break from around 5:12pm
 - small-sided games from around 5:15pm to 5:30pm, likely 3v3 or 4v4 depending on numbers
 
+Players should bring soccer boots or joggers, long socks, shin pads, a drink bottle, and comfortable sporty clothing that does not restrict movement.
+
+Volunteers can help by returning stray balls back into the training area so the activities keep flowing.
+
 The main goal of the first session is to help players feel welcome, active and excited to come back the following week.

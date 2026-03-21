@@ -26,8 +26,8 @@ WWJFC MiniRoos follows the age-appropriate guidance provided by Football South C
 ## Typical training flow
 
 - Arrival play
-- Block 1
-- Block 2
+- Practice 1
+- Practice 2
 - Game
 
 This usually runs in a simple rhythm, with each part taking roughly 15 minutes and short drink breaks or resets in between.

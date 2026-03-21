@@ -88,15 +88,15 @@ After arrival play, the session will usually move through two activity blocks be
 A typical session flow is:
 
 - Arrival play
-- Block 1
-- Block 2
+- Practice 1
+- Practice 2
 - Game
 
 The content of each block may change from week to week, but the overall rhythm should remain familiar. In general:
 
 - arrival play should feel like football play
-- block 1 should introduce or reinforce the main theme of the session
-- block 2 should build on that theme with a little more challenge, pressure or decision-making
+- practice 1 should introduce or reinforce the main theme of the session
+- practice 2 should build on that theme with a little more challenge, pressure or decision-making
 - the session should finish with realistic small-sided games wherever possible
 
 This structure is intended to keep sessions simple, active and enjoyable while still supporting skill development. It also aligns with a play-practice-play approach by starting with football, developing a theme through guided activity, and finishing with game play.

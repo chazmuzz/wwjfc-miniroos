@@ -23,6 +23,10 @@ We run MiniRoos as a shared group so there is usually a healthy number of player
 
 WWJFC MiniRoos follows the age-appropriate guidance provided by Football South Coast. Families who would like more background can read the [Football South Coast coaching handbook for 5-9 year olds](https://footballsouthcoast.com/wp-content/uploads/sites/15/2019/09/FSC-Club-Coaching-Handbook-5-9-year-olds.pdf).
 
+The four core skills we will keep revisiting are first touch, striking the ball, running with the ball, and 1v1.
+
+Each training session will usually include a practice component built around one of the core skills highlighted in the Football South Coast coaching handbook. These will rotate across the season so players keep revisiting a range of skills in simple, age-appropriate ways.
+
 ## Typical training flow
 
 - Arrival play
@@ -39,6 +43,8 @@ This usually runs in a simple rhythm, with each part taking roughly 15 minutes a
 - Long socks
 - Water bottle
 - A correctly sized football for practice at home, ideally size 2 or 3
+
+For younger players, especially at U6 level, shin pads with ankle guards are recommended as children can still be quite clumsy at this age. A knock to the ankle bone can be quite a shock, so shin pads with attached ankle protectors help soften the impact. One example is the [adidas Tiro Match Junior Shin Guards](https://www.rebelsport.com.au/p/adidas-tiro-match-junior-shin-guards-M67649301.html?dwvar_M67649301_color=Black%2FGold&cgid=REB010805#srsltid=AfmBOoqjwA3CBG1yaSQ0_FFNur4cFMnd63iRzKHyvOWeYCiesi0El25-&start=1).
 
 ## Helpful parent support
 

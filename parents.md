@@ -21,6 +21,8 @@ This page pulls together the main practical information for families involved in
 
 We run MiniRoos as a shared group so there is usually a healthy number of players at training and games, children get to know each other across the cohort, and coaches can work together more flexibly.
 
+WWJFC MiniRoos follows the age-appropriate guidance provided by Football South Coast. Families who would like more background can read the [Football South Coast coaching handbook for 5-9 year olds](https://footballsouthcoast.com/wp-content/uploads/sites/15/2019/09/FSC-Club-Coaching-Handbook-5-9-year-olds.pdf).
+
 ## Typical training flow
 
 - Arrival play

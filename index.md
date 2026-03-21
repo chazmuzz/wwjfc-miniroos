@@ -41,7 +41,7 @@ At 4:40pm, a coach will blow the whistle and everyone will gather in the centre 
 The session will then run roughly as follows:
 
 - arrival play from `4:20pm`
-- block 1 from 4:45pm: Red Light, Green Light, progressing into Sharks and Minnows
+- block 1 from 4:45pm: [Red Light, Green Light](https://www.youtube.com/watch?v=oJWGpfUMTZk), progressing into Sharks and Minnows
 - quick drink break from around 5:00pm
 - small-sided games from around 5:05pm to 5:30pm, likely 3v3 or 4v4 depending on numbers, with no goalkeepers
 

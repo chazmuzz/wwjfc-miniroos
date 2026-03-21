@@ -42,9 +42,8 @@ The session will then run roughly as follows:
 
 - arrival play from `4:20pm`
 - block 1 from 4:45pm: Red Light, Green Light, progressing into Sharks and Minnows
-- block 2 from 5:00pm: a race game where two players each have a ball and race to score
-- quick drink break from around 5:12pm
-- small-sided games from around 5:15pm to 5:30pm, likely 3v3 or 4v4 depending on numbers
+- quick drink break from around 5:00pm
+- small-sided games from around 5:05pm to 5:30pm, likely 3v3 or 4v4 depending on numbers, with no goalkeepers
 
 Players should bring soccer boots or joggers, long socks, shin pads, a drink bottle, and comfortable sporty clothing that does not restrict movement.
 

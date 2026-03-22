@@ -139,6 +139,36 @@ code {
   border-top: 1px solid var(--wwjfc-border);
 }
 
+.footer-sponsor-note {
+  margin: 1rem 0 0.75rem;
+  color: var(--wwjfc-red);
+  text-align: center;
+  font-weight: 700;
+}
+
+.footer-sponsors {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem 1.25rem;
+  padding: 1rem 0 0.25rem;
+}
+
+.footer-sponsor-logo {
+  display: block;
+  max-height: 200px;
+  max-width: min(280px, 42vw);
+  object-fit: contain;
+}
+
+.footer-sponsor-panel {
+  padding: 0.25rem;
+  border-radius: 12px;
+  background: #ffffff;
+  box-shadow: 0 6px 18px rgba(31, 41, 51, 0.08);
+}
+
 .schedule-legend {
   display: flex;
   flex-wrap: wrap;
@@ -238,5 +268,10 @@ code {
   .schedule-calendar td {
     padding: 0.55rem 0.2rem;
     font-size: 0.9rem;
+  }
+
+  .footer-sponsor-logo {
+    max-height: 120px;
+    max-width: min(200px, 42vw);
   }
 }

@@ -3,8 +3,6 @@ title: Schedule
 permalink: /schedule/
 ---
 
-# Schedule
-
 All training and games take place at Morley Park, Warilla.
 
 <div class="schedule-legend">

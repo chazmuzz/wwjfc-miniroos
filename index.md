@@ -1,5 +1,5 @@
 ---
-title: Home
+title: ""
 permalink: /
 ---
 
@@ -9,11 +9,7 @@ permalink: /
   <img class="home-logo home-logo-sponsor home-logo-panel" src="{{ "/assets/images/chris-newman.jpeg" | relative_url }}" alt="Chris Newman Motor Repairs sponsor logo">
 </div>
 
-# WWJFC MiniRoos
-
 Warilla Wanderers Junior Football Club MiniRoos covers our U6 and U7 teams. This site keeps the key information simple and practical for families and volunteers.
-
-## Start here
 
 - [Schedule]({{ "/schedule/" | relative_url }})
 - [Family Info]({{ "/parents/" | relative_url }})

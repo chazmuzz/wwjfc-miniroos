@@ -3,8 +3,6 @@ title: Volunteers
 permalink: /volunteers/
 ---
 
-# Volunteer Information
-
 Volunteers help the MiniRoos programme feel organised, welcoming and manageable. Support does not need to be formal coaching to be useful.
 
 ## Where volunteers can help

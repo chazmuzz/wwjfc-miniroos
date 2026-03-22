@@ -4,8 +4,6 @@ permalink: /7c1d9f42-8e31-4d6f-b2c7-5f9130a4e6bd/
 sitemap: false
 ---
 
-# WWJFC MiniRoos Guide
-
 This page is the main reference for how the Warilla Wanderers Junior Football Club MiniRoos setup is intended to run. It sets out the purpose of the programme, how sessions should feel, and what expectations should be clear for players, parents, coaches and volunteers.
 
 At WWJFC, MiniRoos currently covers U6 and U7.

@@ -3,8 +3,6 @@ title: Family Info
 permalink: /parents/
 ---
 
-# Family Info
-
 This page pulls together the main practical information for families involved in WWJFC MiniRoos.
 
 ## Age group guide

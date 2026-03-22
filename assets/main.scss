@@ -71,10 +71,17 @@ code {
 
 .home-logos {
   display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto 1rem;
+}
+
+.home-sponsors {
+  display: flex;
   flex-wrap: nowrap;
   align-items: center;
   justify-content: center;
-  gap: 1.1rem;
+  gap: 1.25rem;
   margin: 0 auto 1.5rem;
 }
 
@@ -84,14 +91,14 @@ code {
 }
 
 .home-logo-club {
-  width: min(126px, 28vw);
+  width: min(200px, 40vw);
   border-radius: 50%;
   box-shadow: 0 8px 24px rgba(232, 51, 36, 0.12);
 }
 
 .home-logo-sponsor {
-  max-height: 64px;
-  max-width: min(140px, 28vw);
+  max-height: 150px;
+  max-width: min(220px, 38vw);
 }
 
 .home-logo-panel {
@@ -188,17 +195,21 @@ code {
   }
 
   .home-logos {
-    flex-wrap: nowrap;
+    margin-bottom: 0.85rem;
+  }
+
+  .home-sponsors {
     gap: 0.7rem;
+    margin-bottom: 1.25rem;
   }
 
   .home-logo-club {
-    width: min(98px, 28vw);
+    width: min(150px, 40vw);
   }
 
   .home-logo-sponsor {
-    max-height: 48px;
-    max-width: min(108px, 28vw);
+    max-height: 100px;
+    max-width: min(150px, 38vw);
   }
 
   .schedule-calendar th,

@@ -4,8 +4,11 @@ permalink: /
 ---
 
 <div class="home-logos">
-  <img class="home-logo home-logo-sponsor" src="{{ "/assets/images/maccas.png" | relative_url }}" alt="McDonald's sponsor logo">
   <img class="home-logo home-logo-club" src="{{ "/assets/images/club-logo.jpg" | relative_url }}" alt="Warilla Wanderers F.C. club badge">
+</div>
+
+<div class="home-sponsors">
+  <img class="home-logo home-logo-sponsor" src="{{ "/assets/images/maccas.png" | relative_url }}" alt="McDonald's sponsor logo">
   <img class="home-logo home-logo-sponsor home-logo-panel" src="{{ "/assets/images/chris-newman.jpeg" | relative_url }}" alt="Chris Newman Motor Repairs sponsor logo">
 </div>
 

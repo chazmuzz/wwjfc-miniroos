@@ -69,6 +69,38 @@ code {
   box-shadow: 0 8px 24px rgba(232, 51, 36, 0.12);
 }
 
+.home-logos {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+  margin: 0 auto 1.5rem;
+}
+
+.home-logo {
+  display: block;
+  object-fit: contain;
+}
+
+.home-logo-club {
+  width: min(180px, 45vw);
+  border-radius: 50%;
+  box-shadow: 0 8px 24px rgba(232, 51, 36, 0.12);
+}
+
+.home-logo-sponsor {
+  max-height: 90px;
+  max-width: min(180px, 36vw);
+}
+
+.home-logo-panel {
+  padding: 0.45rem;
+  border-radius: 16px;
+  background: #ffffff;
+  box-shadow: 0 6px 18px rgba(31, 41, 51, 0.08);
+}
+
 .post-content > h2,
 .post-content > h3 {
   margin-top: 2rem;
@@ -153,6 +185,19 @@ code {
 
   .site-logo {
     width: min(150px, 52vw);
+  }
+
+  .home-logos {
+    gap: 0.75rem;
+  }
+
+  .home-logo-club {
+    width: min(150px, 52vw);
+  }
+
+  .home-logo-sponsor {
+    max-height: 72px;
+    max-width: min(150px, 38vw);
   }
 
   .schedule-calendar th,

@@ -29,6 +29,7 @@ The programme is designed as a shared framework across both age groups. Coaches 
 
 - One MiniRoos framework across U6 and U7 rather than isolated teams working separately.
 - Shared programme led collaboratively by coaches.
+- Wednesday training may be staggered by age group where needed to manage numbers, space and session flow.
 - Players are part of one overall cohort, with Saturday squads used for organisation rather than as fixed-status teams.
 - Squads can change over time to support social mixing, flexibility and equal belonging across the programme.
 - Parent volunteers may be required to assist with training drills.
@@ -44,7 +45,9 @@ We are doing it this way for a few simple reasons:
 
 ## Weekly schedule and location
 
-- Training session: Wednesday, 4:30pm to 5:30pm.
+- Wednesday training is currently staggered by age group.
+- U6 trains from 4:30pm to 5:30pm.
+- U7 trains from 5:00pm to 6:00pm.
 - Training starts on Wednesday 25 March.
 - There will be a break from training during the winter school holidays.
 - Additional sessions can be added later if needed.

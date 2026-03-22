@@ -3,7 +3,11 @@ title: Home
 permalink: /
 ---
 
-![Warilla Wanderers F.C. club badge]({{ "/assets/images/club-logo.jpg" | relative_url }}){: .site-logo }
+<div class="home-logos">
+  <img class="home-logo home-logo-sponsor" src="{{ "/assets/images/maccas.png" | relative_url }}" alt="McDonald's sponsor logo">
+  <img class="home-logo home-logo-club" src="{{ "/assets/images/club-logo.jpg" | relative_url }}" alt="Warilla Wanderers F.C. club badge">
+  <img class="home-logo home-logo-sponsor home-logo-panel" src="{{ "/assets/images/chris-newman.jpeg" | relative_url }}" alt="Chris Newman Motor Repairs sponsor logo">
+</div>
 
 # WWJFC MiniRoos
 
@@ -24,7 +28,10 @@ Warilla Wanderers Junior Football Club MiniRoos covers our U6 and U7 teams. This
 
 ## Practical snapshot
 
-- Training currently runs on Wednesdays.
+- Wednesday training is staggered by age group.
+- U6 trains from 4:30pm to 5:30pm.
+- U7 trains from 5:00pm to 6:00pm.
+- We expect around 50 players across the two age groups.
 - Training starts on Wednesday 25 March.
 - There will be a break from training during the winter school holidays.
 - Saturday game attendance is an important part of the programme.
@@ -34,16 +41,18 @@ Warilla Wanderers Junior Football Club MiniRoos covers our U6 and U7 teams. This
 
 For the first session, we will have 3 fields set up and ready to go.
 
-Families are encouraged to arrive from 4:20pm. Players can grab a ball and settle in through simple arrival play, passing with friends or family members while everyone gathers. We may also use a simple gates game, where players see how many times they can pass or dribble the ball through a gate.
+U6 families are encouraged to arrive from 4:20pm. U7 families are encouraged to arrive from 4:50pm.
 
-At 4:40pm, a coach will blow the whistle and everyone will gather in the centre of the middle field. Players will then be divided into small groups and move to different areas.
+Players can grab a ball and settle in through simple arrival play, passing with friends or family members while everyone gathers. We may also use a simple gates game, where players see how many times they can pass or dribble the ball through a gate.
+
+Each age group will gather shortly after its start time, with players divided into small groups and moved to different areas.
 
 The session will then run roughly as follows:
 
-- arrival play from `4:20pm`
-- practice 1 from 4:45pm: [Red Light, Green Light](https://www.youtube.com/watch?v=oJWGpfUMTZk), progressing into Sharks and Minnows
-- quick drink break from around 5:00pm
-- small-sided games from around 5:05pm to 5:30pm, likely 3v3 or 4v4 depending on numbers, with no goalkeepers
+- arrival play before the session starts
+- practice 1: [Red Light, Green Light](https://www.youtube.com/watch?v=oJWGpfUMTZk), progressing into Sharks and Minnows
+- quick drink break during the session
+- small-sided games to finish, likely 3v3 or 4v4 depending on numbers, with no goalkeepers
 
 Players should bring soccer boots or joggers, long socks, shin pads, a drink bottle, and comfortable sporty clothing that does not restrict movement.
 

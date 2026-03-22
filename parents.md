@@ -57,7 +57,9 @@ For younger players, especially at U6 level, shin pads with ankle guards are rec
 
 ## Weekly pattern
 
-- Training currently runs on Wednesdays from 4:30pm to 5:30pm.
+- Wednesday training is staggered by age group to help manage numbers and make better use of the space available.
+- U6 trains from 4:30pm to 5:30pm.
+- U7 trains from 5:00pm to 6:00pm.
 - Training starts on Wednesday 25 March.
 - There will be a break from training during the winter school holidays.
 - Saturday games are an important part of the programme.

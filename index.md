@@ -36,6 +36,15 @@ Warilla Wanderers Junior Football Club MiniRoos covers our U6 and U7 teams. This
 - Saturday game attendance is an important part of the programme.
 - Parent and volunteer support helps sessions run smoothly.
 
+## Training zones
+
+The field map below shows the main training layout. Players will usually spend the first 30 minutes in a Practice Zone and the next 30 minutes in a Game Zone.
+
+<figure class="field-map">
+  <img src="{{ "/assets/images/field-map.png" | relative_url }}" alt="Morley Park field map showing Practice Zones 1 to 3 and Game Zones 1 to 3">
+  <figcaption>Practice Zones 1 to 3 are used for the practice part of the session. Game Zones 1 to 3 are used for the small-sided games.</figcaption>
+</figure>
+
 ## First session: Wednesday 25 March
 
 For the first session, we will have 3 fields set up and ready to go.

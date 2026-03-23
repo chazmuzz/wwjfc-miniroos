@@ -24,6 +24,7 @@ The main goal of the first session is to help players feel welcome, active and e
 
 - Players should wear soccer boots or joggers, long socks, shin pads, and comfortable sporty clothing that does not restrict movement.
 - Players should bring a drink bottle.
+- There is no water fountain at Morley Park, so please make sure your child brings enough water for the session.
 - Families are encouraged to bring their own size 3 ball if they have one, and to write their name on it with a Sharpie.
 - The club does have footballs available, but there may not be enough to go around for every child.
 - Please avoid size 4 or 5 balls.

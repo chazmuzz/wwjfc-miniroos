@@ -17,6 +17,8 @@ The main goal of the first session is to help players feel welcome, active and e
 - Grab a ball and settle into simple arrival play.
 - Players can kick the ball around with friends or family members while everyone gathers.
 - Each age group will gather shortly after its start time, with players divided into small groups and moved to different areas.
+- For the practice part of the session, a parent or family member should accompany their child to the allocated Practice Zone and remain nearby to assist.
+- There will be a lot of players at the first session, so having family members close by will help the activities run smoothly.
 
 ## What to wear and bring
 
@@ -49,10 +51,6 @@ For the first session, teams will begin in the following Practice Zones and then
 
 - Practice Zone 1: U7 Red, U7 Gold
 - Practice Zone 2: U7 Blue, U7 Silver
-
-For the practice part of the session, a parent or family member should accompany their child to the allocated Practice Zone and remain nearby to assist.
-
-There will be a lot of players at the first session, so having family members close by will help the activities run smoothly.
 
 ## Session format
 

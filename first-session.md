@@ -35,6 +35,21 @@ The field map below shows the main training layout. Players will usually spend t
   <figcaption>Practice Zones 1 to 3 are used for the practice part of the session. Game Zones 1 to 3 are used for the small-sided games.</figcaption>
 </figure>
 
+## Team zones
+
+For the first session, teams will begin in the following Practice Zones and then move into the game areas later in the session.
+
+### U6
+
+- Practice Zone 1: U6 Red, U6 Gold, U6 Pink
+- Practice Zone 2: U6 White, U6 Silver
+- Practice Zone 3: U6 Blue, U6 Purple
+
+### U7
+
+- Practice Zone 1: U7 Red, U7 Gold
+- Practice Zone 2: U7 Blue, U7 Silver
+
 ## Session format
 
 1. Arrival play - grab a ball and start kicking it around with a friend or family member.

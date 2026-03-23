@@ -50,6 +50,10 @@ For the first session, teams will begin in the following Practice Zones and then
 - Practice Zone 1: U7 Red, U7 Gold
 - Practice Zone 2: U7 Blue, U7 Silver
 
+For the practice part of the session, a parent or family member should accompany their child to the allocated Practice Zone and remain nearby to assist.
+
+There will be a lot of players at the first session, so having family members close by will help the activities run smoothly.
+
 ## Session format
 
 1. Arrival play - grab a ball and start kicking it around with a friend or family member.

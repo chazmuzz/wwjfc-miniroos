@@ -65,3 +65,4 @@ There will be a lot of players at the first session, so having family members cl
 ## After training
 
 - Club shorts and socks will be available for purchase from the canteen.
+- Parents and family members are asked to help pack away the equipment after the session as needed.

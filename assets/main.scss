@@ -51,6 +51,24 @@ a:focus {
   color: #083f53;
 }
 
+.action-link {
+  display: inline-block;
+  margin: 0.5rem 0 0.75rem;
+  padding: 0.8rem 1rem;
+  border-radius: 999px;
+  background: var(--wwjfc-red);
+  color: #ffffff !important;
+  font-weight: 700;
+  text-decoration: none;
+  box-shadow: 0 8px 18px rgba(232, 51, 36, 0.18);
+}
+
+.action-link:hover,
+.action-link:focus {
+  background: #c92d22;
+  color: #ffffff !important;
+}
+
 ul,
 ol {
   color: var(--wwjfc-ink);

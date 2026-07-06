@@ -3,7 +3,10 @@ title: FSC Cup
 permalink: /2026-07-08-fsc-cup/
 ---
 
-<img class="site-logo" src="{{ "/assets/images/club-logo.jpg" | relative_url }}" alt="Warilla Wanderers F.C. club badge">
+<div class="event-logos">
+  <img class="event-logo event-logo-club" src="{{ "/assets/images/club-logo.jpg" | relative_url }}" alt="Warilla Wanderers F.C. club badge">
+  <img class="event-logo" src="https://footballsouthcoast.com/wp-content/uploads/sites/15/2019/09/football-south-coast-logo-200px.png" alt="Football South Coast logo">
+</div>
 
 Here are the key details for Warilla JFC families attending the Mixed FSC Cup U6/U7 tournament on **Wednesday 8 July 2026**.
 

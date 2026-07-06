@@ -87,6 +87,26 @@ code {
   box-shadow: 0 8px 24px rgba(232, 51, 36, 0.12);
 }
 
+.event-logos {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem 1.25rem;
+  margin: 0 auto 1.5rem;
+}
+
+.event-logo {
+  display: block;
+  width: min(150px, 34vw);
+  object-fit: contain;
+}
+
+.event-logo-club {
+  border-radius: 50%;
+  box-shadow: 0 8px 24px rgba(232, 51, 36, 0.12);
+}
+
 .home-logos {
   display: flex;
   align-items: center;

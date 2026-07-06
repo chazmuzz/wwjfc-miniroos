@@ -10,13 +10,6 @@ permalink: /2026-07-08-fsc-cup/
 
 Here are the key details for Warilla JFC families attending the Mixed FSC Cup U6/U7 tournament on **Wednesday 8 July 2026**.
 
-<figure class="event-promo">
-  <a href="https://footballsouthcoast.com/2026/06/30/fsc-cup-these-july-school-holidays/">
-    <img src="https://footballsouthcoast.com/wp-content/uploads/sites/15/2026/06/Jun-11-2026-11_14_28-AM.png" alt="Football South Coast FSC Cup school holiday promotion">
-  </a>
-  <figcaption>Official FSC Cup promotion from Football South Coast.</figcaption>
-</figure>
-
 ## Key details
 
 - **Team:** Warilla JFC
@@ -44,6 +37,13 @@ Here are the key details for Warilla JFC families attending the Mixed FSC Cup U6
 | 11:00am | 2 | Little Legends |
 | 11:45am | 3 | Unanderra U7 Maroon |
 | 12:30pm | TBC | Final: first v second in the round robin, if qualified |
+
+<figure class="event-promo">
+  <a href="https://footballsouthcoast.com/2026/06/30/fsc-cup-these-july-school-holidays/">
+    <img src="https://footballsouthcoast.com/wp-content/uploads/sites/15/2026/06/Jun-11-2026-11_14_28-AM.png" alt="Football South Coast FSC Cup school holiday promotion">
+  </a>
+  <figcaption>Official FSC Cup promotion from Football South Coast.</figcaption>
+</figure>
 
 ## Game format
 
